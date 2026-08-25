@@ -1,0 +1,16 @@
+{
+  "records": 250,
+  "baseline_conversions": 34,
+  "agent_policy_conversions": 45,
+  "conversion_uplift_pct": 32.35,
+  "baseline_revenue_inr": 129055.6,
+  "agent_policy_revenue_inr": 176224.83,
+  "revenue_uplift_pct": 36.55,
+  "incremental_recovered_revenue_inr": 47169.23,
+  "auto_eligible_records": 125,
+  "incremental_conversion_wins": 11,
+  "approval_gated_actions": 88,
+  "coupon_actions": 31,
+  "stopping_rule_actions": 68,
+  "note": "Deterministic synthetic simulation for reproducible evaluation; not a production uplift claim."
+}
